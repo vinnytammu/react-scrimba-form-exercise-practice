@@ -1,4 +1,4 @@
-//https://scrimba.com/learn/learnreact/react-form-practice-ceLWEsp
+//course section: https://scrimba.com/learn/learnreact/react-form-practice-ceLWEsp
 
 import React, { Component } from "react";
 
